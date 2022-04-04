@@ -1,0 +1,99 @@
+C:\Users\Valen\OneDrive\Bureau\BTS SIO deuxieme annee\MR Hamidou\Programation\XML\AdministrationSicilyLines\AdministrationSicilyLines\bin\Debug\AdministrationSicilyLines.exe.config
+C:\Users\Valen\OneDrive\Bureau\BTS SIO deuxieme annee\MR Hamidou\Programation\XML\AdministrationSicilyLines\AdministrationSicilyLines\bin\Debug\AdministrationSicilyLines.exe
+C:\Users\Valen\OneDrive\Bureau\BTS SIO deuxieme annee\MR Hamidou\Programation\XML\AdministrationSicilyLines\AdministrationSicilyLines\bin\Debug\AdministrationSicilyLines.pdb
+C:\Users\Valen\OneDrive\Bureau\BTS SIO deuxieme annee\MR Hamidou\Programation\XML\AdministrationSicilyLines\AdministrationSicilyLines\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Valen\OneDrive\Bureau\BTS SIO deuxieme annee\MR Hamidou\Programation\XML\AdministrationSicilyLines\AdministrationSicilyLines\bin\Debug\Google.Protobuf.dll
+C:\Users\Valen\OneDrive\Bureau\BTS SIO deuxieme annee\MR Hamidou\Programation\XML\AdministrationSicilyLines\AdministrationSicilyLines\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Valen\OneDrive\Bureau\BTS SIO deuxieme annee\MR Hamidou\Programation\XML\AdministrationSicilyLines\AdministrationSicilyLines\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Valen\OneDrive\Bureau\BTS SIO deuxieme annee\MR Hamidou\Programation\XML\AdministrationSicilyLines\AdministrationSicilyLines\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Valen\OneDrive\Bureau\BTS SIO deuxieme annee\MR Hamidou\Programation\XML\AdministrationSicilyLines\AdministrationSicilyLines\bin\Debug\MySql.Data.dll
+C:\Users\Valen\OneDrive\Bureau\BTS SIO deuxieme annee\MR Hamidou\Programation\XML\AdministrationSicilyLines\AdministrationSicilyLines\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Valen\OneDrive\Bureau\BTS SIO deuxieme annee\MR Hamidou\Programation\XML\AdministrationSicilyLines\AdministrationSicilyLines\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Valen\OneDrive\Bureau\BTS SIO deuxieme annee\MR Hamidou\Programation\XML\AdministrationSicilyLines\AdministrationSicilyLines\bin\Debug\ZstdNet.dll
+C:\Users\Valen\OneDrive\Bureau\BTS SIO deuxieme annee\MR Hamidou\Programation\XML\AdministrationSicilyLines\AdministrationSicilyLines\bin\Debug\System.Memory.dll
+C:\Users\Valen\OneDrive\Bureau\BTS SIO deuxieme annee\MR Hamidou\Programation\XML\AdministrationSicilyLines\AdministrationSicilyLines\bin\Debug\System.Buffers.dll
+C:\Users\Valen\OneDrive\Bureau\BTS SIO deuxieme annee\MR Hamidou\Programation\XML\AdministrationSicilyLines\AdministrationSicilyLines\bin\Debug\Google.Protobuf.pdb
+C:\Users\Valen\OneDrive\Bureau\BTS SIO deuxieme annee\MR Hamidou\Programation\XML\AdministrationSicilyLines\AdministrationSicilyLines\bin\Debug\Google.Protobuf.xml
+C:\Users\Valen\OneDrive\Bureau\BTS SIO deuxieme annee\MR Hamidou\Programation\XML\AdministrationSicilyLines\AdministrationSicilyLines\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Valen\OneDrive\Bureau\BTS SIO deuxieme annee\MR Hamidou\Programation\XML\AdministrationSicilyLines\AdministrationSicilyLines\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Valen\OneDrive\Bureau\BTS SIO deuxieme annee\MR Hamidou\Programation\XML\AdministrationSicilyLines\AdministrationSicilyLines\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Valen\OneDrive\Bureau\BTS SIO deuxieme annee\MR Hamidou\Programation\XML\AdministrationSicilyLines\AdministrationSicilyLines\bin\Debug\MySql.Data.xml
+C:\Users\Valen\OneDrive\Bureau\BTS SIO deuxieme annee\MR Hamidou\Programation\XML\AdministrationSicilyLines\AdministrationSicilyLines\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Valen\OneDrive\Bureau\BTS SIO deuxieme annee\MR Hamidou\Programation\XML\AdministrationSicilyLines\AdministrationSicilyLines\obj\Debug\AdministrationSicilyLines.csproj.AssemblyReference.cache
+C:\Users\Valen\OneDrive\Bureau\BTS SIO deuxieme annee\MR Hamidou\Programation\XML\AdministrationSicilyLines\AdministrationSicilyLines\obj\Debug\AdministrationSicilyLines.csproj.SuggestedBindingRedirects.cache
+C:\Users\Valen\OneDrive\Bureau\BTS SIO deuxieme annee\MR Hamidou\Programation\XML\AdministrationSicilyLines\AdministrationSicilyLines\obj\Debug\AdministrationSicilyLines.exe.config
+C:\Users\Valen\OneDrive\Bureau\BTS SIO deuxieme annee\MR Hamidou\Programation\XML\AdministrationSicilyLines\AdministrationSicilyLines\obj\Debug\AdministrationSicilyLines.Properties.Resources.resources
+C:\Users\Valen\OneDrive\Bureau\BTS SIO deuxieme annee\MR Hamidou\Programation\XML\AdministrationSicilyLines\AdministrationSicilyLines\obj\Debug\AdministrationSicilyLines.csproj.GenerateResource.cache
+C:\Users\Valen\OneDrive\Bureau\BTS SIO deuxieme annee\MR Hamidou\Programation\XML\AdministrationSicilyLines\AdministrationSicilyLines\obj\Debug\AdministrationSicilyLines.csproj.CoreCompileInputs.cache
+C:\Users\Valen\OneDrive\Bureau\BTS SIO deuxieme annee\MR Hamidou\Programation\XML\AdministrationSicilyLines\AdministrationSicilyLines\obj\Debug\AdministrationSicilyLines.csproj.CopyComplete
+C:\Users\Valen\OneDrive\Bureau\BTS SIO deuxieme annee\MR Hamidou\Programation\XML\AdministrationSicilyLines\AdministrationSicilyLines\obj\Debug\AdministrationSicilyLines.exe
+C:\Users\Valen\OneDrive\Bureau\BTS SIO deuxieme annee\MR Hamidou\Programation\XML\AdministrationSicilyLines\AdministrationSicilyLines\obj\Debug\AdministrationSicilyLines.pdb
+C:\Users\Valen\OneDrive\Bureau\BTS SIO deuxieme annee\MR Hamidou\Programation\XML\AdministrationSicilyLines\AdministrationSicilyLines\obj\Debug\AdministrationSicilyLines.vues.LiaisonView.resources
+C:\Users\Valen\OneDrive\Bureau\BTS SIO deuxieme annee\MR Hamidou\Programation\XML\AdministrationSicilyLines\AdministrationSicilyLines\obj\Debug\AdministrationSicilyLines.vues.ModifLiaisonView.resources
+C:\Users\Valen\OneDrive\Bureau\BTS SIO deuxieme annee\MR Hamidou\Programation\XML\AdministrationSicilyLines\AdministrationSicilyLines\obj\Debug\AdministrationSicilyLines.vues.ModifTariferView.resources
+C:\Users\bsahr\Documents\GitHub\AdministrationSicilyLines--Mission-3\AdministrationSicilyLines\bin\Debug\AdministrationSicilyLines.exe.config
+C:\Users\bsahr\Documents\GitHub\AdministrationSicilyLines--Mission-3\AdministrationSicilyLines\bin\Debug\AdministrationSicilyLines.exe
+C:\Users\bsahr\Documents\GitHub\AdministrationSicilyLines--Mission-3\AdministrationSicilyLines\bin\Debug\AdministrationSicilyLines.pdb
+C:\Users\bsahr\Documents\GitHub\AdministrationSicilyLines--Mission-3\AdministrationSicilyLines\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\bsahr\Documents\GitHub\AdministrationSicilyLines--Mission-3\AdministrationSicilyLines\bin\Debug\Google.Protobuf.dll
+C:\Users\bsahr\Documents\GitHub\AdministrationSicilyLines--Mission-3\AdministrationSicilyLines\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\bsahr\Documents\GitHub\AdministrationSicilyLines--Mission-3\AdministrationSicilyLines\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\bsahr\Documents\GitHub\AdministrationSicilyLines--Mission-3\AdministrationSicilyLines\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\bsahr\Documents\GitHub\AdministrationSicilyLines--Mission-3\AdministrationSicilyLines\bin\Debug\MySql.Data.dll
+C:\Users\bsahr\Documents\GitHub\AdministrationSicilyLines--Mission-3\AdministrationSicilyLines\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\bsahr\Documents\GitHub\AdministrationSicilyLines--Mission-3\AdministrationSicilyLines\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\bsahr\Documents\GitHub\AdministrationSicilyLines--Mission-3\AdministrationSicilyLines\bin\Debug\ZstdNet.dll
+C:\Users\bsahr\Documents\GitHub\AdministrationSicilyLines--Mission-3\AdministrationSicilyLines\bin\Debug\System.Memory.dll
+C:\Users\bsahr\Documents\GitHub\AdministrationSicilyLines--Mission-3\AdministrationSicilyLines\bin\Debug\System.Buffers.dll
+C:\Users\bsahr\Documents\GitHub\AdministrationSicilyLines--Mission-3\AdministrationSicilyLines\bin\Debug\Google.Protobuf.pdb
+C:\Users\bsahr\Documents\GitHub\AdministrationSicilyLines--Mission-3\AdministrationSicilyLines\bin\Debug\Google.Protobuf.xml
+C:\Users\bsahr\Documents\GitHub\AdministrationSicilyLines--Mission-3\AdministrationSicilyLines\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\bsahr\Documents\GitHub\AdministrationSicilyLines--Mission-3\AdministrationSicilyLines\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\bsahr\Documents\GitHub\AdministrationSicilyLines--Mission-3\AdministrationSicilyLines\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\bsahr\Documents\GitHub\AdministrationSicilyLines--Mission-3\AdministrationSicilyLines\bin\Debug\MySql.Data.xml
+C:\Users\bsahr\Documents\GitHub\AdministrationSicilyLines--Mission-3\AdministrationSicilyLines\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\bsahr\Documents\GitHub\AdministrationSicilyLines--Mission-3\AdministrationSicilyLines\obj\Debug\AdministrationSicilyLines.csproj.AssemblyReference.cache
+C:\Users\bsahr\Documents\GitHub\AdministrationSicilyLines--Mission-3\AdministrationSicilyLines\obj\Debug\AdministrationSicilyLines.csproj.SuggestedBindingRedirects.cache
+C:\Users\bsahr\Documents\GitHub\AdministrationSicilyLines--Mission-3\AdministrationSicilyLines\obj\Debug\AdministrationSicilyLines.exe.config
+C:\Users\bsahr\Documents\GitHub\AdministrationSicilyLines--Mission-3\AdministrationSicilyLines\obj\Debug\AdministrationSicilyLines.Properties.Resources.resources
+C:\Users\bsahr\Documents\GitHub\AdministrationSicilyLines--Mission-3\AdministrationSicilyLines\obj\Debug\AdministrationSicilyLines.vues.LiaisonView.resources
+C:\Users\bsahr\Documents\GitHub\AdministrationSicilyLines--Mission-3\AdministrationSicilyLines\obj\Debug\AdministrationSicilyLines.vues.ModifLiaisonView.resources
+C:\Users\bsahr\Documents\GitHub\AdministrationSicilyLines--Mission-3\AdministrationSicilyLines\obj\Debug\AdministrationSicilyLines.vues.ModifTariferView.resources
+C:\Users\bsahr\Documents\GitHub\AdministrationSicilyLines--Mission-3\AdministrationSicilyLines\obj\Debug\AdministrationSicilyLines.csproj.GenerateResource.cache
+C:\Users\bsahr\Documents\GitHub\AdministrationSicilyLines--Mission-3\AdministrationSicilyLines\obj\Debug\AdministrationSicilyLines.csproj.CoreCompileInputs.cache
+C:\Users\bsahr\Documents\GitHub\AdministrationSicilyLines--Mission-3\AdministrationSicilyLines\obj\Debug\AdministrationSicilyLines.csproj.CopyComplete
+C:\Users\bsahr\Documents\GitHub\AdministrationSicilyLines--Mission-3\AdministrationSicilyLines\obj\Debug\AdministrationSicilyLines.exe
+C:\Users\bsahr\Documents\GitHub\AdministrationSicilyLines--Mission-3\AdministrationSicilyLines\obj\Debug\AdministrationSicilyLines.pdb
+C:\Users\Valen\OneDrive\Bureau\BTS SIO deuxieme annee\AP 2021-2022\Mission3SicilyLines\AdministrationSicilyLines\AdministrationSicilyLines\bin\Debug\AdministrationSicilyLines.exe.config
+C:\Users\Valen\OneDrive\Bureau\BTS SIO deuxieme annee\AP 2021-2022\Mission3SicilyLines\AdministrationSicilyLines\AdministrationSicilyLines\bin\Debug\AdministrationSicilyLines.exe
+C:\Users\Valen\OneDrive\Bureau\BTS SIO deuxieme annee\AP 2021-2022\Mission3SicilyLines\AdministrationSicilyLines\AdministrationSicilyLines\bin\Debug\AdministrationSicilyLines.pdb
+C:\Users\Valen\OneDrive\Bureau\BTS SIO deuxieme annee\AP 2021-2022\Mission3SicilyLines\AdministrationSicilyLines\AdministrationSicilyLines\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Valen\OneDrive\Bureau\BTS SIO deuxieme annee\AP 2021-2022\Mission3SicilyLines\AdministrationSicilyLines\AdministrationSicilyLines\bin\Debug\Google.Protobuf.dll
+C:\Users\Valen\OneDrive\Bureau\BTS SIO deuxieme annee\AP 2021-2022\Mission3SicilyLines\AdministrationSicilyLines\AdministrationSicilyLines\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Valen\OneDrive\Bureau\BTS SIO deuxieme annee\AP 2021-2022\Mission3SicilyLines\AdministrationSicilyLines\AdministrationSicilyLines\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Valen\OneDrive\Bureau\BTS SIO deuxieme annee\AP 2021-2022\Mission3SicilyLines\AdministrationSicilyLines\AdministrationSicilyLines\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Valen\OneDrive\Bureau\BTS SIO deuxieme annee\AP 2021-2022\Mission3SicilyLines\AdministrationSicilyLines\AdministrationSicilyLines\bin\Debug\MySql.Data.dll
+C:\Users\Valen\OneDrive\Bureau\BTS SIO deuxieme annee\AP 2021-2022\Mission3SicilyLines\AdministrationSicilyLines\AdministrationSicilyLines\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Valen\OneDrive\Bureau\BTS SIO deuxieme annee\AP 2021-2022\Mission3SicilyLines\AdministrationSicilyLines\AdministrationSicilyLines\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Valen\OneDrive\Bureau\BTS SIO deuxieme annee\AP 2021-2022\Mission3SicilyLines\AdministrationSicilyLines\AdministrationSicilyLines\bin\Debug\ZstdNet.dll
+C:\Users\Valen\OneDrive\Bureau\BTS SIO deuxieme annee\AP 2021-2022\Mission3SicilyLines\AdministrationSicilyLines\AdministrationSicilyLines\bin\Debug\System.Memory.dll
+C:\Users\Valen\OneDrive\Bureau\BTS SIO deuxieme annee\AP 2021-2022\Mission3SicilyLines\AdministrationSicilyLines\AdministrationSicilyLines\bin\Debug\System.Buffers.dll
+C:\Users\Valen\OneDrive\Bureau\BTS SIO deuxieme annee\AP 2021-2022\Mission3SicilyLines\AdministrationSicilyLines\AdministrationSicilyLines\bin\Debug\Google.Protobuf.pdb
+C:\Users\Valen\OneDrive\Bureau\BTS SIO deuxieme annee\AP 2021-2022\Mission3SicilyLines\AdministrationSicilyLines\AdministrationSicilyLines\bin\Debug\Google.Protobuf.xml
+C:\Users\Valen\OneDrive\Bureau\BTS SIO deuxieme annee\AP 2021-2022\Mission3SicilyLines\AdministrationSicilyLines\AdministrationSicilyLines\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Valen\OneDrive\Bureau\BTS SIO deuxieme annee\AP 2021-2022\Mission3SicilyLines\AdministrationSicilyLines\AdministrationSicilyLines\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Valen\OneDrive\Bureau\BTS SIO deuxieme annee\AP 2021-2022\Mission3SicilyLines\AdministrationSicilyLines\AdministrationSicilyLines\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Valen\OneDrive\Bureau\BTS SIO deuxieme annee\AP 2021-2022\Mission3SicilyLines\AdministrationSicilyLines\AdministrationSicilyLines\bin\Debug\MySql.Data.xml
+C:\Users\Valen\OneDrive\Bureau\BTS SIO deuxieme annee\AP 2021-2022\Mission3SicilyLines\AdministrationSicilyLines\AdministrationSicilyLines\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Valen\OneDrive\Bureau\BTS SIO deuxieme annee\AP 2021-2022\Mission3SicilyLines\AdministrationSicilyLines\AdministrationSicilyLines\obj\Debug\AdministrationSicilyLines.csproj.AssemblyReference.cache
+C:\Users\Valen\OneDrive\Bureau\BTS SIO deuxieme annee\AP 2021-2022\Mission3SicilyLines\AdministrationSicilyLines\AdministrationSicilyLines\obj\Debug\AdministrationSicilyLines.csproj.SuggestedBindingRedirects.cache
+C:\Users\Valen\OneDrive\Bureau\BTS SIO deuxieme annee\AP 2021-2022\Mission3SicilyLines\AdministrationSicilyLines\AdministrationSicilyLines\obj\Debug\AdministrationSicilyLines.exe.config
+C:\Users\Valen\OneDrive\Bureau\BTS SIO deuxieme annee\AP 2021-2022\Mission3SicilyLines\AdministrationSicilyLines\AdministrationSicilyLines\obj\Debug\AdministrationSicilyLines.Properties.Resources.resources
+C:\Users\Valen\OneDrive\Bureau\BTS SIO deuxieme annee\AP 2021-2022\Mission3SicilyLines\AdministrationSicilyLines\AdministrationSicilyLines\obj\Debug\AdministrationSicilyLines.vues.LiaisonView.resources
+C:\Users\Valen\OneDrive\Bureau\BTS SIO deuxieme annee\AP 2021-2022\Mission3SicilyLines\AdministrationSicilyLines\AdministrationSicilyLines\obj\Debug\AdministrationSicilyLines.vues.ModifLiaisonView.resources
+C:\Users\Valen\OneDrive\Bureau\BTS SIO deuxieme annee\AP 2021-2022\Mission3SicilyLines\AdministrationSicilyLines\AdministrationSicilyLines\obj\Debug\AdministrationSicilyLines.vues.ModifTariferView.resources
+C:\Users\Valen\OneDrive\Bureau\BTS SIO deuxieme annee\AP 2021-2022\Mission3SicilyLines\AdministrationSicilyLines\AdministrationSicilyLines\obj\Debug\AdministrationSicilyLines.csproj.GenerateResource.cache
+C:\Users\Valen\OneDrive\Bureau\BTS SIO deuxieme annee\AP 2021-2022\Mission3SicilyLines\AdministrationSicilyLines\AdministrationSicilyLines\obj\Debug\AdministrationSicilyLines.csproj.CoreCompileInputs.cache
+C:\Users\Valen\OneDrive\Bureau\BTS SIO deuxieme annee\AP 2021-2022\Mission3SicilyLines\AdministrationSicilyLines\AdministrationSicilyLines\obj\Debug\AdministrationSicilyLines.csproj.CopyComplete
+C:\Users\Valen\OneDrive\Bureau\BTS SIO deuxieme annee\AP 2021-2022\Mission3SicilyLines\AdministrationSicilyLines\AdministrationSicilyLines\obj\Debug\AdministrationSicilyLines.exe
+C:\Users\Valen\OneDrive\Bureau\BTS SIO deuxieme annee\AP 2021-2022\Mission3SicilyLines\AdministrationSicilyLines\AdministrationSicilyLines\obj\Debug\AdministrationSicilyLines.pdb
